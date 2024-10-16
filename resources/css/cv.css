@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header,
+main {
+    padding-left: 40px;
+}
+
+ul {
+    font-size: 18px
+}

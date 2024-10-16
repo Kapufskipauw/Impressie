@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(10, 2, 54);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: greenyellow;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.pallax_banner {
+    background-image: url("../images/pink_object_wall.jpg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pallax_banner h1 {
+    color: greenyellow;
+    font-size: 80px;
+    background-color: rgb(255, 5, 196, 0.30);
+    height: 350px;
+    padding-top: 250px;
+    padding-bottom: 200px;
+    text-shadow: 0 0 6px #FF0000, 0 0 5px #000008;
+    
+}
+
+span {
+    border: 3px solid rgb(255, 5, 196);
+    background-color: greenyellow;
+    cursor: pointer; 
+    padding: 10px;
+    border-radius: 50%;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.nourish_noise {
+    background-image: url("../images/Nourish_Noise.png");
+    height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nourish_noise_text h2 {
+    font-size: 50px;
+    background-color: rgb(127, 255, 212, 0.5);
+}

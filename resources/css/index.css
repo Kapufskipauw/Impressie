@@ -1,0 +1,46 @@
+body {
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    border: 3px solid rgb(255, 5, 196);
+    background-color: greenyellow;
+    cursor: pointer; 
+    padding: 10px;
+    border-radius: 50%;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.intro .flex_container_intro {
+    display: flex;
+    height: 500px;
+    justify-content: space-around;
+    padding: 30px;
+    margin: 0;
+}
+
+.intro_text {
+    width: 900px;
+    font-size: 21px;
+    text-align: center;
+    font-weight: 400;
+    
+}
+
+.flex_nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 40px;
+}
+
+.links_intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
